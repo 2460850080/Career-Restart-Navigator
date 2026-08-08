@@ -1,0 +1,28 @@
+{
+  "profile": {
+    "location": "Example rural district",
+    "occupation": "Farmer",
+    "experience": "5 years",
+    "education": "Secondary education"
+  },
+  "resources": {
+    "raw_materials": [
+      "Mangoes"
+    ],
+    "workspace": "Small home-based workspace",
+    "storage": "Limited",
+    "transport": "Local transport available",
+    "electricity": true,
+    "internet": true
+  },
+  "business_goal": {
+    "idea": "Mango-based food product",
+    "market_scope": "Nearby town",
+    "business_type": "Individual"
+  },
+  "finance": {
+    "available_investment": "User must provide amount",
+    "loan_access": "Unknown"
+  },
+  "status": "Sample data only. This is not a real entrepreneur profile."
+}
