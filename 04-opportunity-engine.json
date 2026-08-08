@@ -1,0 +1,49 @@
+{
+  "resource_to_opportunities": {
+    "mangoes": [
+      "Fresh Mango Trading",
+      "Mango Pulp",
+      "Mango Pickle",
+      "Mango Jam",
+      "Dried Mango",
+      "Mango Powder",
+      "Mango Beverage"
+    ],
+    "milk": [
+      "Fresh Dairy",
+      "Curd",
+      "Paneer",
+      "Ghee"
+    ],
+    "fish": [
+      "Fresh Fish Trading",
+      "Processed Fish",
+      "Dried Fish",
+      "Ready-to-Cook Fish"
+    ],
+    "handicrafts": [
+      "Direct Craft Sales",
+      "Gift Products",
+      "Online Craft Store",
+      "Tourism Souvenirs"
+    ],
+    "traditional_skills": [
+      "Local Services",
+      "Training Workshops",
+      "Custom Products",
+      "Digital Marketplace Sales"
+    ]
+  },
+  "ranking_factors": {
+    "resource_availability": 0.15,
+    "market_potential": 0.20,
+    "investment_feasibility": 0.15,
+    "skills_availability": 0.10,
+    "supply_chain_feasibility": 0.10,
+    "competition": 0.10,
+    "seasonality": 0.05,
+    "distribution_feasibility": 0.10,
+    "risk_level": 0.05
+  },
+  "rule": "Never fabricate demand, competition, pricing or market size."
+}
