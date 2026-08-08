@@ -1,0 +1,40 @@
+{
+  "validation_system": {
+    "enabled": true,
+    "never_silent": true,
+    "rules": [
+      {
+        "id": "negative_values",
+        "severity": "error",
+        "message": "Please enter a valid non-negative value."
+      },
+      {
+        "id": "contradictory_information",
+        "severity": "error",
+        "message": "Information inconsistency detected. Please verify the conflicting information."
+      },
+      {
+        "id": "unrealistic_claim",
+        "severity": "warning",
+        "message": "This assumption may be unrealistic. Validate it before investing."
+      },
+      {
+        "id": "missing_critical_input",
+        "severity": "warning",
+        "message": "More information is needed before making a reliable recommendation."
+      },
+      {
+        "id": "unverified_assumption",
+        "severity": "needs_verification",
+        "message": "This is an assumption and requires validation."
+      }
+    ]
+  },
+  "error_response": {
+    "title": "Information Check",
+    "show_entered_information": true,
+    "show_issue": true,
+    "show_correction_needed": true,
+    "allow_user_correction": true
+  }
+}
