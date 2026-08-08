@@ -1,0 +1,36 @@
+{
+  "analysis_dimensions": [
+    "target_customers",
+    "market_scope",
+    "customer_problem",
+    "competitors",
+    "pricing",
+    "distribution",
+    "demand_evidence",
+    "seasonality"
+  ],
+  "market_scopes": [
+    "Village",
+    "Nearby Town",
+    "District",
+    "State",
+    "National",
+    "Online"
+  ],
+  "evidence_labels": [
+    "Verified",
+    "User Provided",
+    "AI Estimate",
+    "Unverified Assumption",
+    "Needs Validation"
+  ],
+  "validation_methods": [
+    "Retailer Interviews",
+    "Customer Surveys",
+    "Competitor Price Checks",
+    "Small-Batch Sales",
+    "Online Marketplace Research",
+    "Distributor Interviews"
+  ],
+  "rule": "If verified market data is unavailable, clearly state that local validation is required."
+}
