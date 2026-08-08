@@ -1,0 +1,32 @@
+{
+  "cost_categories": {
+    "fixed_costs": [
+      "Equipment",
+      "Workspace",
+      "Machinery",
+      "Storage",
+      "Furniture",
+      "Initial Setup"
+    ],
+    "variable_costs": [
+      "Raw Materials",
+      "Packaging",
+      "Labor",
+      "Transportation",
+      "Electricity",
+      "Marketing"
+    ],
+    "working_capital": [
+      "Inventory",
+      "Operating Expenses",
+      "Receivables Buffer"
+    ]
+  },
+  "scenario_types": [
+    "Conservative",
+    "Expected",
+    "Optimistic"
+  ],
+  "financial_rule": "All financial figures are estimates unless verified with current local supplier information.",
+  "disclaimer": "Estimated costs do not guarantee actual expenses or profit."
+}
