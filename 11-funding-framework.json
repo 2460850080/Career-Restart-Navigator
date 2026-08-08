@@ -1,0 +1,22 @@
+{
+  "funding_categories": [
+    "Government Schemes",
+    "Bank Loans",
+    "SHG Financing",
+    "Microfinance",
+    "Incubators",
+    "Entrepreneurship Programs",
+    "Skill Development Programs",
+    "Cooperatives"
+  ],
+  "verification_fields": [
+    "scheme_name",
+    "purpose",
+    "eligibility",
+    "support_type",
+    "application_route",
+    "official_source",
+    "last_verified"
+  ],
+  "rule": "Never claim that a user is eligible for funding without verification."
+}
