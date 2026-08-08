@@ -1,0 +1,55 @@
+{
+  "sections": [
+    {
+      "id": "profile",
+      "fields": [
+        "location",
+        "occupation",
+        "experience",
+        "education",
+        "available_time"
+      ]
+    },
+    {
+      "id": "resources",
+      "fields": [
+        "raw_materials",
+        "land",
+        "livestock",
+        "skills",
+        "equipment",
+        "workspace",
+        "storage",
+        "transport",
+        "internet",
+        "electricity",
+        "labor"
+      ]
+    },
+    {
+      "id": "business_goal",
+      "fields": [
+        "idea",
+        "motivation",
+        "target_customer",
+        "market_scope",
+        "business_type"
+      ]
+    },
+    {
+      "id": "finance",
+      "fields": [
+        "available_investment",
+        "monthly_budget",
+        "loan_access",
+        "funding_preference"
+      ]
+    }
+  ],
+  "required_validation": [
+    "location",
+    "resource_description",
+    "business_goal",
+    "available_investment"
+  ]
+}
