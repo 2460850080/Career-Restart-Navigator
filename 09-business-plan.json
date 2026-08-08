@@ -1,0 +1,26 @@
+{
+  "roadmap": {
+    "30_days": [
+      "Market Research",
+      "Customer Interviews",
+      "Competitor Research",
+      "Prototype",
+      "Pilot Preparation"
+    ],
+    "60_days": [
+      "Pilot Sales",
+      "Pricing Improvement",
+      "Customer Feedback",
+      "Packaging Improvement",
+      "Distribution Testing"
+    ],
+    "90_days": [
+      "Repeat Sales",
+      "Process Improvement",
+      "Branding",
+      "Distribution Expansion",
+      "Scale Decision"
+    ]
+  },
+  "adaptive_rule": "The roadmap must adapt to the user's available time, budget, resources and constraints."
+}
