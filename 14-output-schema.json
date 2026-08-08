@@ -1,0 +1,21 @@
+{
+  "final_report_sections": [
+    "Resource Profile",
+    "Business Opportunities",
+    "Recommended Opportunity",
+    "Target Customers",
+    "Market Analysis",
+    "Operations Plan",
+    "Investment Estimate",
+    "Unit Economics",
+    "Viability Score",
+    "Risk Map",
+    "Validation Plan",
+    "30/60/90-Day Roadmap",
+    "Funding Options",
+    "Minimum Viable Business",
+    "First Business Action"
+  ],
+  "first_action_rule": "Always provide exactly one practical action the entrepreneur can complete today.",
+  "final_question": "What is the next smallest realistic step you can take today?"
+}
