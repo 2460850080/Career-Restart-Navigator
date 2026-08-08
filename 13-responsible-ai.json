@@ -1,0 +1,25 @@
+{
+  "responsible_ai_rules": {
+    "must_not": [
+      "Fabricate market demand",
+      "Fabricate competitors",
+      "Fabricate prices",
+      "Fabricate customers",
+      "Guarantee profit",
+      "Guarantee loans",
+      "Invent suppliers",
+      "Invent buyers",
+      "Invent licenses",
+      "Hide contradictions",
+      "Present estimates as verified facts"
+    ],
+    "information_labels": [
+      "Verified",
+      "User Provided",
+      "AI Estimate",
+      "Unverified Assumption",
+      "Needs Verification"
+    ],
+    "fallback_response": "I don't have enough verified information to determine this. Here is how you can validate it."
+  }
+}
