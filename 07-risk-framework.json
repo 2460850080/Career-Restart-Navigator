@@ -1,0 +1,41 @@
+{
+  "risk_categories": {
+    "market": [
+      "Low Demand",
+      "Price Competition",
+      "Changing Customer Preferences"
+    ],
+    "supply": [
+      "Seasonal Shortage",
+      "Supplier Dependency",
+      "Raw Material Price Changes"
+    ],
+    "financial": [
+      "High Investment",
+      "Working Capital Shortage",
+      "Price Volatility"
+    ],
+    "operational": [
+      "Equipment Failure",
+      "Electricity Problems",
+      "Labor Shortage"
+    ],
+    "distribution": [
+      "Transportation",
+      "Storage",
+      "Market Access"
+    ],
+    "regulatory": [
+      "Licensing",
+      "Food Safety",
+      "Local Permissions"
+    ]
+  },
+  "risk_fields": [
+    "risk",
+    "impact",
+    "probability",
+    "mitigation",
+    "validation_required"
+  ]
+}
