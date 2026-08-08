@@ -1,0 +1,38 @@
+{
+  "validation_duration_days": 7,
+  "steps": [
+    {
+      "day": 1,
+      "action": "Identify at least 10 potential customers."
+    },
+    {
+      "day": 2,
+      "action": "Interview potential retailers or buyers."
+    },
+    {
+      "day": 3,
+      "action": "Compare competitor products, prices and packaging."
+    },
+    {
+      "day": 4,
+      "action": "Create a small product sample or service prototype."
+    },
+    {
+      "day": 5,
+      "action": "Collect customer feedback."
+    },
+    {
+      "day": 6,
+      "action": "Estimate unit economics using pilot data."
+    },
+    {
+      "day": 7,
+      "action": "Decide whether to Continue, Modify or Stop based on evidence."
+    }
+  ],
+  "decision_rules": {
+    "continue": "Evidence supports demand and basic unit economics.",
+    "modify": "Some demand exists but the product, price, customer or channel needs adjustment.",
+    "stop": "Critical assumptions fail validation or risks are unacceptable."
+  }
+}
