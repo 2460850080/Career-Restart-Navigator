@@ -1,0 +1,21 @@
+{
+  "trigger_conditions": [
+    "Low Sales",
+    "High Costs",
+    "Weak Demand",
+    "Poor Product Fit",
+    "Distribution Problem",
+    "Quality Problem",
+    "Seasonal Shortage"
+  ],
+  "pivot_options": [
+    "Change Product",
+    "Change Customer Segment",
+    "Change Pricing",
+    "Change Distribution",
+    "Change Packaging",
+    "Change Business Model",
+    "Reduce Initial Scale"
+  ],
+  "recovery_rule": "Diagnose the reason for poor performance and create a lower-risk recovery or pivot plan."
+}
